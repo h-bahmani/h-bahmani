@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Houra, and I'm a passionate developer with a deep interest in artificial intelligence, machine learning, and cutting-edge technologies. I thrive on solving complex problems and bringing innovative ideas to life.
+My name is Houra, and I'm a passionate developer with a strong interest in AI, RAG (Retrieval-Augmented Generation), automation, and cutting-edge technologies.
 
 🔭 I’m currently working on:
 
