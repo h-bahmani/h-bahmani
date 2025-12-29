@@ -31,9 +31,6 @@ My name is Houra, and I'm a passionate developer with a strong interest in AI, R
 
 -Building retrieval-augmented generation (RAG) pipelines to enhance knowledge systems
 
--Experimenting with advanced cryptography, algorithms, and data science
-
--Creating scalable backend systems and automating workflows
 
 🌍 Let's Connect
 
