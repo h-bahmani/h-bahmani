@@ -14,18 +14,18 @@ My name is Houra, and I'm a passionate developer with a deep interest in artific
 
 -Enhancing my knowledge of algorithmic complexity and cryptography.
 
-🔧 Tech Stack & Tools
+🔧 Tech Stack & Tools:
 
-AI & ML: RAG (Retrieval-Augmented Generation), Cohere, Gemini, Cloudflare AI
+-AI & ML: RAG (Retrieval-Augmented Generation), Cohere, Gemini, Cloudflare AI
 
-Languages: Python, JavaScript, SQL
+-Languages: Python, JavaScript, SQL
 
-Frameworks: Pydantic-AI, FastAPI, n8n
+-Frameworks: Pydantic-AI, FastAPI, n8n
 
-Databases: Supabase, PostgreSQL
+-Databases: Supabase, PostgreSQL
 
 
-🚀 What I Do
+🚀 What I Do:
 
 -Developing AI-powered systems and chatbots
 
